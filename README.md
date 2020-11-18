@@ -1,4 +1,4 @@
-My Personal Website! ✨
-Developed in Angular
+#  My Personal Website! ✨
+Developed in Angular ❤️
 
-segura.vercel.app
+[Emanuel Segura's Website](segura.vercel.app "Emanuel Segura's Website")
