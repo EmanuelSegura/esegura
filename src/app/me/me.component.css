@@ -1,0 +1,44 @@
+/* .me-css {} */
+
+.me-img-css {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 6rem;
+}
+
+.me-paragraph-css {
+    text-align: left;
+    font-size: 1.6rem;
+    font-weight: lighter;
+    line-height: 2em;
+    margin-bottom: 2rem;
+}
+
+figure {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* desktop */
+
+@media (min-width: 768px) {
+    .me-css {
+        margin: 0rem 4rem 0 4rem;
+    }
+}
+
+@media (min-width: 1920px) {
+    .me-css {
+        margin: 0rem 12rem 0 12rem;
+    }
+}

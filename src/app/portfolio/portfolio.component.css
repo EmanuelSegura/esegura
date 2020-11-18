@@ -1,0 +1,26 @@
+.buttons-portfolio-css {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards-portfolio-css {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-portfolio-css {
+    margin-top: 1rem;
+}
+
+
+/* desktop */
+
+@media (min-width: 640px) {
+    .cards-portfolio-css {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
